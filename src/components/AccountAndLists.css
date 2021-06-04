@@ -1,0 +1,18 @@
+.AccountAndLists {
+    display: none;
+}
+
+.AccountAndLists_greeting {
+    font-size: 12px;
+}
+
+.AccountAndLists_label {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+@media (min-width: 992px) {
+    .AccountAndLists {
+        display: block;
+    }
+}

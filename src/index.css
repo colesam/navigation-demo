@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-y: scroll;
+}
+
+.List-spaced li {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.Code-inline {
+  font-family: monospace;
+  background: #ddd;
+  border-radius: 2px;
+  padding: 0 3px;
+}
+
+@font-face {
+  font-family: 'Bangers-Regular';
+  src: url(./fonts/Bangers-Regular.ttf) format('truetype');
+}
